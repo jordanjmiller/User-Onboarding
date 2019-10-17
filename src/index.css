@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+/* .memberForm{
+  display:flex;
+  flex-wrap: wrap;
+} */
+
+.field{
+  border: 1px solid red;
+  /* padding: 0% 30%;
+  margin: 0 auto; */
+}
